@@ -1,0 +1,6 @@
+[submodule "stock_project_frontend"]
+	path = stock_project_frontend
+	url = git@github.com:rmahtab0079/stock_project_frontend.git
+[submodule "stock_project_backend"]
+	path = stock_project_backend
+	url = https://github.com/rmahtab0079/stock_project_backend
